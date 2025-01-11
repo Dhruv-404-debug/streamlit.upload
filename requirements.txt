@@ -3,3 +3,4 @@ pandas
 streamlit
 pandas-datareader
 numpy
+setuptools
